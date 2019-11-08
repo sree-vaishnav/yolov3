@@ -15,7 +15,7 @@ Anaconda – Python 3.7 (Windows 10) https://www.anaconda.com/download/
 
 
 Conda Env yolov3.yml
-https://github.com/sreevaishnav/yolov3/blob/master/yolov3.yml
+https://github.com/astra-sv/yolov3/blob/master/yolov3.yml
    
      cd C:\yolo
      conda env create -f yolo.yml
@@ -25,6 +25,7 @@ If any errors popup, try installing from requirements.txt
     pip install -r requirements.txt
     
 CUDA Toolkit - V9.0 (Nvidia GPU GTX 1050 or higher) https://bit.ly/2PRLjke
+
 Ensure that you have the latest nvidia graphics drivers install on your PC.
 
 # PyTorch 
